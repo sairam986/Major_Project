@@ -1,0 +1,1001 @@
+job_id,skills_required,experience_required
+1,"Python, SQL, Data Analysis",18
+2,"Java, JavaScript, Web Development",13
+3,"C++, SQL, Machine Learning",7
+4,"Python, Data Science, Statistics",8
+5,"SQL, Database Management, Data Warehousing",17
+6,"Python, SQL, Data Analysis",1
+7,"Java, JavaScript, Web Development",16
+8,"C++, SQL, Machine Learning",11
+9,"Python, Data Science, Statistics",4
+10,"SQL, Database Management, Data Warehousing",4
+11,"Python, SQL, Data Analysis",17
+12,"Java, JavaScript, Web Development",17
+13,"C++, SQL, Machine Learning",10
+14,"Python, Data Science, Statistics",6
+15,"SQL, Database Management, Data Warehousing",17
+16,"Python, SQL, Data Analysis",18
+17,"Java, JavaScript, Web Development",10
+18,"C++, SQL, Machine Learning",13
+19,"Python, Data Science, Statistics",16
+20,"SQL, Database Management, Data Warehousing",7
+21,"Python, SQL, Data Analysis",15
+22,"Java, JavaScript, Web Development",2
+23,"C++, SQL, Machine Learning",5
+24,"Python, Data Science, Statistics",17
+25,"SQL, Database Management, Data Warehousing",5
+26,"Python, SQL, Data Analysis",8
+27,"Java, JavaScript, Web Development",15
+28,"C++, SQL, Machine Learning",8
+29,"Python, Data Science, Statistics",3
+30,"SQL, Database Management, Data Warehousing",17
+31,"Python, SQL, Data Analysis",16
+32,"Java, JavaScript, Web Development",16
+33,"C++, SQL, Machine Learning",19
+34,"Python, Data Science, Statistics",12
+35,"SQL, Database Management, Data Warehousing",15
+36,"Python, SQL, Data Analysis",8
+37,"Java, JavaScript, Web Development",3
+38,"C++, SQL, Machine Learning",18
+39,"Python, Data Science, Statistics",4
+40,"SQL, Database Management, Data Warehousing",8
+41,"Python, SQL, Data Analysis",14
+42,"Java, JavaScript, Web Development",17
+43,"C++, SQL, Machine Learning",6
+44,"Python, Data Science, Statistics",5
+45,"SQL, Database Management, Data Warehousing",14
+46,"Python, SQL, Data Analysis",6
+47,"Java, JavaScript, Web Development",12
+48,"C++, SQL, Machine Learning",9
+49,"Python, Data Science, Statistics",1
+50,"SQL, Database Management, Data Warehousing",18
+51,"Python, SQL, Data Analysis",6
+52,"Java, JavaScript, Web Development",5
+53,"C++, SQL, Machine Learning",2
+54,"Python, Data Science, Statistics",6
+55,"SQL, Database Management, Data Warehousing",17
+56,"Python, SQL, Data Analysis",7
+57,"Java, JavaScript, Web Development",9
+58,"C++, SQL, Machine Learning",5
+59,"Python, Data Science, Statistics",11
+60,"SQL, Database Management, Data Warehousing",11
+61,"Python, SQL, Data Analysis",4
+62,"Java, JavaScript, Web Development",6
+63,"C++, SQL, Machine Learning",10
+64,"Python, Data Science, Statistics",9
+65,"SQL, Database Management, Data Warehousing",18
+66,"Python, SQL, Data Analysis",9
+67,"Java, JavaScript, Web Development",11
+68,"C++, SQL, Machine Learning",2
+69,"Python, Data Science, Statistics",15
+70,"SQL, Database Management, Data Warehousing",6
+71,"Python, SQL, Data Analysis",17
+72,"Java, JavaScript, Web Development",4
+73,"C++, SQL, Machine Learning",8
+74,"Python, Data Science, Statistics",2
+75,"SQL, Database Management, Data Warehousing",9
+76,"Python, SQL, Data Analysis",1
+77,"Java, JavaScript, Web Development",6
+78,"C++, SQL, Machine Learning",16
+79,"Python, Data Science, Statistics",7
+80,"SQL, Database Management, Data Warehousing",16
+81,"Python, SQL, Data Analysis",6
+82,"Java, JavaScript, Web Development",10
+83,"C++, SQL, Machine Learning",18
+84,"Python, Data Science, Statistics",17
+85,"SQL, Database Management, Data Warehousing",17
+86,"Python, SQL, Data Analysis",12
+87,"Java, JavaScript, Web Development",15
+88,"C++, SQL, Machine Learning",6
+89,"Python, Data Science, Statistics",16
+90,"SQL, Database Management, Data Warehousing",14
+91,"Python, SQL, Data Analysis",12
+92,"Java, JavaScript, Web Development",12
+93,"C++, SQL, Machine Learning",2
+94,"Python, Data Science, Statistics",8
+95,"SQL, Database Management, Data Warehousing",17
+96,"Python, SQL, Data Analysis",8
+97,"Java, JavaScript, Web Development",16
+98,"C++, SQL, Machine Learning",1
+99,"Python, Data Science, Statistics",5
+100,"SQL, Database Management, Data Warehousing",19
+101,"Python, SQL, Data Analysis",3
+102,"Java, JavaScript, Web Development",9
+103,"C++, SQL, Machine Learning",11
+104,"Python, Data Science, Statistics",6
+105,"SQL, Database Management, Data Warehousing",7
+106,"Python, SQL, Data Analysis",7
+107,"Java, JavaScript, Web Development",5
+108,"C++, SQL, Machine Learning",2
+109,"Python, Data Science, Statistics",5
+110,"SQL, Database Management, Data Warehousing",6
+111,"Python, SQL, Data Analysis",6
+112,"Java, JavaScript, Web Development",7
+113,"C++, SQL, Machine Learning",4
+114,"Python, Data Science, Statistics",18
+115,"SQL, Database Management, Data Warehousing",16
+116,"Python, SQL, Data Analysis",19
+117,"Java, JavaScript, Web Development",10
+118,"C++, SQL, Machine Learning",5
+119,"Python, Data Science, Statistics",18
+120,"SQL, Database Management, Data Warehousing",3
+121,"Python, SQL, Data Analysis",4
+122,"Java, JavaScript, Web Development",14
+123,"C++, SQL, Machine Learning",12
+124,"Python, Data Science, Statistics",14
+125,"SQL, Database Management, Data Warehousing",5
+126,"Python, SQL, Data Analysis",18
+127,"Java, JavaScript, Web Development",7
+128,"C++, SQL, Machine Learning",16
+129,"Python, Data Science, Statistics",3
+130,"SQL, Database Management, Data Warehousing",11
+131,"Python, SQL, Data Analysis",18
+132,"Java, JavaScript, Web Development",6
+133,"C++, SQL, Machine Learning",5
+134,"Python, Data Science, Statistics",5
+135,"SQL, Database Management, Data Warehousing",16
+136,"Python, SQL, Data Analysis",3
+137,"Java, JavaScript, Web Development",12
+138,"C++, SQL, Machine Learning",3
+139,"Python, Data Science, Statistics",2
+140,"SQL, Database Management, Data Warehousing",15
+141,"Python, SQL, Data Analysis",17
+142,"Java, JavaScript, Web Development",12
+143,"C++, SQL, Machine Learning",2
+144,"Python, Data Science, Statistics",2
+145,"SQL, Database Management, Data Warehousing",14
+146,"Python, SQL, Data Analysis",7
+147,"Java, JavaScript, Web Development",14
+148,"C++, SQL, Machine Learning",7
+149,"Python, Data Science, Statistics",17
+150,"SQL, Database Management, Data Warehousing",4
+151,"Python, SQL, Data Analysis",15
+152,"Java, JavaScript, Web Development",3
+153,"C++, SQL, Machine Learning",6
+154,"Python, Data Science, Statistics",8
+155,"SQL, Database Management, Data Warehousing",16
+156,"Python, SQL, Data Analysis",15
+157,"Java, JavaScript, Web Development",4
+158,"C++, SQL, Machine Learning",8
+159,"Python, Data Science, Statistics",8
+160,"SQL, Database Management, Data Warehousing",7
+161,"Python, SQL, Data Analysis",18
+162,"Java, JavaScript, Web Development",12
+163,"C++, SQL, Machine Learning",4
+164,"Python, Data Science, Statistics",14
+165,"SQL, Database Management, Data Warehousing",5
+166,"Python, SQL, Data Analysis",7
+167,"Java, JavaScript, Web Development",12
+168,"C++, SQL, Machine Learning",15
+169,"Python, Data Science, Statistics",19
+170,"SQL, Database Management, Data Warehousing",13
+171,"Python, SQL, Data Analysis",4
+172,"Java, JavaScript, Web Development",6
+173,"C++, SQL, Machine Learning",8
+174,"Python, Data Science, Statistics",15
+175,"SQL, Database Management, Data Warehousing",12
+176,"Python, SQL, Data Analysis",10
+177,"Java, JavaScript, Web Development",12
+178,"C++, SQL, Machine Learning",17
+179,"Python, Data Science, Statistics",8
+180,"SQL, Database Management, Data Warehousing",2
+181,"Python, SQL, Data Analysis",19
+182,"Java, JavaScript, Web Development",1
+183,"C++, SQL, Machine Learning",10
+184,"Python, Data Science, Statistics",9
+185,"SQL, Database Management, Data Warehousing",19
+186,"Python, SQL, Data Analysis",12
+187,"Java, JavaScript, Web Development",18
+188,"C++, SQL, Machine Learning",16
+189,"Python, Data Science, Statistics",4
+190,"SQL, Database Management, Data Warehousing",11
+191,"Python, SQL, Data Analysis",15
+192,"Java, JavaScript, Web Development",16
+193,"C++, SQL, Machine Learning",2
+194,"Python, Data Science, Statistics",13
+195,"SQL, Database Management, Data Warehousing",12
+196,"Python, SQL, Data Analysis",8
+197,"Java, JavaScript, Web Development",12
+198,"C++, SQL, Machine Learning",14
+199,"Python, Data Science, Statistics",3
+200,"SQL, Database Management, Data Warehousing",2
+201,"Python, SQL, Data Analysis",17
+202,"Java, JavaScript, Web Development",2
+203,"C++, SQL, Machine Learning",17
+204,"Python, Data Science, Statistics",2
+205,"SQL, Database Management, Data Warehousing",2
+206,"Python, SQL, Data Analysis",13
+207,"Java, JavaScript, Web Development",7
+208,"C++, SQL, Machine Learning",9
+209,"Python, Data Science, Statistics",9
+210,"SQL, Database Management, Data Warehousing",14
+211,"Python, SQL, Data Analysis",11
+212,"Java, JavaScript, Web Development",19
+213,"C++, SQL, Machine Learning",1
+214,"Python, Data Science, Statistics",5
+215,"SQL, Database Management, Data Warehousing",1
+216,"Python, SQL, Data Analysis",6
+217,"Java, JavaScript, Web Development",16
+218,"C++, SQL, Machine Learning",16
+219,"Python, Data Science, Statistics",13
+220,"SQL, Database Management, Data Warehousing",14
+221,"Python, SQL, Data Analysis",11
+222,"Java, JavaScript, Web Development",10
+223,"C++, SQL, Machine Learning",17
+224,"Python, Data Science, Statistics",7
+225,"SQL, Database Management, Data Warehousing",4
+226,"Python, SQL, Data Analysis",17
+227,"Java, JavaScript, Web Development",1
+228,"C++, SQL, Machine Learning",2
+229,"Python, Data Science, Statistics",19
+230,"SQL, Database Management, Data Warehousing",1
+231,"Python, SQL, Data Analysis",12
+232,"Java, JavaScript, Web Development",19
+233,"C++, SQL, Machine Learning",19
+234,"Python, Data Science, Statistics",16
+235,"SQL, Database Management, Data Warehousing",16
+236,"Python, SQL, Data Analysis",8
+237,"Java, JavaScript, Web Development",13
+238,"C++, SQL, Machine Learning",14
+239,"Python, Data Science, Statistics",19
+240,"SQL, Database Management, Data Warehousing",15
+241,"Python, SQL, Data Analysis",15
+242,"Java, JavaScript, Web Development",8
+243,"C++, SQL, Machine Learning",13
+244,"Python, Data Science, Statistics",12
+245,"SQL, Database Management, Data Warehousing",13
+246,"Python, SQL, Data Analysis",16
+247,"Java, JavaScript, Web Development",12
+248,"C++, SQL, Machine Learning",14
+249,"Python, Data Science, Statistics",15
+250,"SQL, Database Management, Data Warehousing",19
+251,"Python, SQL, Data Analysis",5
+252,"Java, JavaScript, Web Development",2
+253,"C++, SQL, Machine Learning",18
+254,"Python, Data Science, Statistics",18
+255,"SQL, Database Management, Data Warehousing",17
+256,"Python, SQL, Data Analysis",10
+257,"Java, JavaScript, Web Development",17
+258,"C++, SQL, Machine Learning",3
+259,"Python, Data Science, Statistics",16
+260,"SQL, Database Management, Data Warehousing",18
+261,"Python, SQL, Data Analysis",7
+262,"Java, JavaScript, Web Development",1
+263,"C++, SQL, Machine Learning",7
+264,"Python, Data Science, Statistics",13
+265,"SQL, Database Management, Data Warehousing",16
+266,"Python, SQL, Data Analysis",11
+267,"Java, JavaScript, Web Development",3
+268,"C++, SQL, Machine Learning",9
+269,"Python, Data Science, Statistics",7
+270,"SQL, Database Management, Data Warehousing",3
+271,"Python, SQL, Data Analysis",1
+272,"Java, JavaScript, Web Development",11
+273,"C++, SQL, Machine Learning",13
+274,"Python, Data Science, Statistics",4
+275,"SQL, Database Management, Data Warehousing",10
+276,"Python, SQL, Data Analysis",8
+277,"Java, JavaScript, Web Development",17
+278,"C++, SQL, Machine Learning",11
+279,"Python, Data Science, Statistics",5
+280,"SQL, Database Management, Data Warehousing",18
+281,"Python, SQL, Data Analysis",4
+282,"Java, JavaScript, Web Development",6
+283,"C++, SQL, Machine Learning",7
+284,"Python, Data Science, Statistics",12
+285,"SQL, Database Management, Data Warehousing",3
+286,"Python, SQL, Data Analysis",8
+287,"Java, JavaScript, Web Development",10
+288,"C++, SQL, Machine Learning",1
+289,"Python, Data Science, Statistics",17
+290,"SQL, Database Management, Data Warehousing",18
+291,"Python, SQL, Data Analysis",9
+292,"Java, JavaScript, Web Development",16
+293,"C++, SQL, Machine Learning",17
+294,"Python, Data Science, Statistics",18
+295,"SQL, Database Management, Data Warehousing",11
+296,"Python, SQL, Data Analysis",18
+297,"Java, JavaScript, Web Development",4
+298,"C++, SQL, Machine Learning",8
+299,"Python, Data Science, Statistics",10
+300,"SQL, Database Management, Data Warehousing",4
+301,"Python, SQL, Data Analysis",8
+302,"Java, JavaScript, Web Development",17
+303,"C++, SQL, Machine Learning",3
+304,"Python, Data Science, Statistics",5
+305,"SQL, Database Management, Data Warehousing",5
+306,"Python, SQL, Data Analysis",7
+307,"Java, JavaScript, Web Development",1
+308,"C++, SQL, Machine Learning",18
+309,"Python, Data Science, Statistics",6
+310,"SQL, Database Management, Data Warehousing",15
+311,"Python, SQL, Data Analysis",9
+312,"Java, JavaScript, Web Development",3
+313,"C++, SQL, Machine Learning",18
+314,"Python, Data Science, Statistics",16
+315,"SQL, Database Management, Data Warehousing",17
+316,"Python, SQL, Data Analysis",9
+317,"Java, JavaScript, Web Development",13
+318,"C++, SQL, Machine Learning",8
+319,"Python, Data Science, Statistics",13
+320,"SQL, Database Management, Data Warehousing",1
+321,"Python, SQL, Data Analysis",12
+322,"Java, JavaScript, Web Development",12
+323,"C++, SQL, Machine Learning",9
+324,"Python, Data Science, Statistics",1
+325,"SQL, Database Management, Data Warehousing",14
+326,"Python, SQL, Data Analysis",14
+327,"Java, JavaScript, Web Development",6
+328,"C++, SQL, Machine Learning",16
+329,"Python, Data Science, Statistics",8
+330,"SQL, Database Management, Data Warehousing",19
+331,"Python, SQL, Data Analysis",5
+332,"Java, JavaScript, Web Development",15
+333,"C++, SQL, Machine Learning",13
+334,"Python, Data Science, Statistics",6
+335,"SQL, Database Management, Data Warehousing",17
+336,"Python, SQL, Data Analysis",5
+337,"Java, JavaScript, Web Development",10
+338,"C++, SQL, Machine Learning",5
+339,"Python, Data Science, Statistics",17
+340,"SQL, Database Management, Data Warehousing",19
+341,"Python, SQL, Data Analysis",6
+342,"Java, JavaScript, Web Development",15
+343,"C++, SQL, Machine Learning",4
+344,"Python, Data Science, Statistics",17
+345,"SQL, Database Management, Data Warehousing",1
+346,"Python, SQL, Data Analysis",18
+347,"Java, JavaScript, Web Development",10
+348,"C++, SQL, Machine Learning",19
+349,"Python, Data Science, Statistics",2
+350,"SQL, Database Management, Data Warehousing",17
+351,"Python, SQL, Data Analysis",18
+352,"Java, JavaScript, Web Development",13
+353,"C++, SQL, Machine Learning",7
+354,"Python, Data Science, Statistics",5
+355,"SQL, Database Management, Data Warehousing",4
+356,"Python, SQL, Data Analysis",7
+357,"Java, JavaScript, Web Development",5
+358,"C++, SQL, Machine Learning",19
+359,"Python, Data Science, Statistics",7
+360,"SQL, Database Management, Data Warehousing",13
+361,"Python, SQL, Data Analysis",4
+362,"Java, JavaScript, Web Development",15
+363,"C++, SQL, Machine Learning",18
+364,"Python, Data Science, Statistics",4
+365,"SQL, Database Management, Data Warehousing",4
+366,"Python, SQL, Data Analysis",2
+367,"Java, JavaScript, Web Development",5
+368,"C++, SQL, Machine Learning",8
+369,"Python, Data Science, Statistics",11
+370,"SQL, Database Management, Data Warehousing",11
+371,"Python, SQL, Data Analysis",18
+372,"Java, JavaScript, Web Development",19
+373,"C++, SQL, Machine Learning",17
+374,"Python, Data Science, Statistics",1
+375,"SQL, Database Management, Data Warehousing",5
+376,"Python, SQL, Data Analysis",3
+377,"Java, JavaScript, Web Development",14
+378,"C++, SQL, Machine Learning",2
+379,"Python, Data Science, Statistics",3
+380,"SQL, Database Management, Data Warehousing",3
+381,"Python, SQL, Data Analysis",13
+382,"Java, JavaScript, Web Development",8
+383,"C++, SQL, Machine Learning",14
+384,"Python, Data Science, Statistics",18
+385,"SQL, Database Management, Data Warehousing",13
+386,"Python, SQL, Data Analysis",18
+387,"Java, JavaScript, Web Development",1
+388,"C++, SQL, Machine Learning",2
+389,"Python, Data Science, Statistics",5
+390,"SQL, Database Management, Data Warehousing",11
+391,"Python, SQL, Data Analysis",11
+392,"Java, JavaScript, Web Development",1
+393,"C++, SQL, Machine Learning",3
+394,"Python, Data Science, Statistics",2
+395,"SQL, Database Management, Data Warehousing",14
+396,"Python, SQL, Data Analysis",16
+397,"Java, JavaScript, Web Development",18
+398,"C++, SQL, Machine Learning",5
+399,"Python, Data Science, Statistics",8
+400,"SQL, Database Management, Data Warehousing",7
+401,"Python, SQL, Data Analysis",10
+402,"Java, JavaScript, Web Development",16
+403,"C++, SQL, Machine Learning",19
+404,"Python, Data Science, Statistics",11
+405,"SQL, Database Management, Data Warehousing",19
+406,"Python, SQL, Data Analysis",3
+407,"Java, JavaScript, Web Development",18
+408,"C++, SQL, Machine Learning",4
+409,"Python, Data Science, Statistics",17
+410,"SQL, Database Management, Data Warehousing",13
+411,"Python, SQL, Data Analysis",4
+412,"Java, JavaScript, Web Development",14
+413,"C++, SQL, Machine Learning",3
+414,"Python, Data Science, Statistics",4
+415,"SQL, Database Management, Data Warehousing",18
+416,"Python, SQL, Data Analysis",13
+417,"Java, JavaScript, Web Development",7
+418,"C++, SQL, Machine Learning",11
+419,"Python, Data Science, Statistics",11
+420,"SQL, Database Management, Data Warehousing",6
+421,"Python, SQL, Data Analysis",11
+422,"Java, JavaScript, Web Development",9
+423,"C++, SQL, Machine Learning",16
+424,"Python, Data Science, Statistics",5
+425,"SQL, Database Management, Data Warehousing",6
+426,"Python, SQL, Data Analysis",4
+427,"Java, JavaScript, Web Development",8
+428,"C++, SQL, Machine Learning",16
+429,"Python, Data Science, Statistics",16
+430,"SQL, Database Management, Data Warehousing",11
+431,"Python, SQL, Data Analysis",14
+432,"Java, JavaScript, Web Development",8
+433,"C++, SQL, Machine Learning",6
+434,"Python, Data Science, Statistics",8
+435,"SQL, Database Management, Data Warehousing",19
+436,"Python, SQL, Data Analysis",8
+437,"Java, JavaScript, Web Development",1
+438,"C++, SQL, Machine Learning",13
+439,"Python, Data Science, Statistics",8
+440,"SQL, Database Management, Data Warehousing",9
+441,"Python, SQL, Data Analysis",16
+442,"Java, JavaScript, Web Development",5
+443,"C++, SQL, Machine Learning",11
+444,"Python, Data Science, Statistics",17
+445,"SQL, Database Management, Data Warehousing",9
+446,"Python, SQL, Data Analysis",17
+447,"Java, JavaScript, Web Development",15
+448,"C++, SQL, Machine Learning",1
+449,"Python, Data Science, Statistics",16
+450,"SQL, Database Management, Data Warehousing",13
+451,"Python, SQL, Data Analysis",3
+452,"Java, JavaScript, Web Development",14
+453,"C++, SQL, Machine Learning",3
+454,"Python, Data Science, Statistics",18
+455,"SQL, Database Management, Data Warehousing",14
+456,"Python, SQL, Data Analysis",17
+457,"Java, JavaScript, Web Development",6
+458,"C++, SQL, Machine Learning",8
+459,"Python, Data Science, Statistics",2
+460,"SQL, Database Management, Data Warehousing",18
+461,"Python, SQL, Data Analysis",3
+462,"Java, JavaScript, Web Development",2
+463,"C++, SQL, Machine Learning",5
+464,"Python, Data Science, Statistics",9
+465,"SQL, Database Management, Data Warehousing",19
+466,"Python, SQL, Data Analysis",2
+467,"Java, JavaScript, Web Development",4
+468,"C++, SQL, Machine Learning",17
+469,"Python, Data Science, Statistics",4
+470,"SQL, Database Management, Data Warehousing",6
+471,"Python, SQL, Data Analysis",2
+472,"Java, JavaScript, Web Development",4
+473,"C++, SQL, Machine Learning",8
+474,"Python, Data Science, Statistics",2
+475,"SQL, Database Management, Data Warehousing",2
+476,"Python, SQL, Data Analysis",8
+477,"Java, JavaScript, Web Development",5
+478,"C++, SQL, Machine Learning",14
+479,"Python, Data Science, Statistics",13
+480,"SQL, Database Management, Data Warehousing",19
+481,"Python, SQL, Data Analysis",1
+482,"Java, JavaScript, Web Development",12
+483,"C++, SQL, Machine Learning",3
+484,"Python, Data Science, Statistics",14
+485,"SQL, Database Management, Data Warehousing",5
+486,"Python, SQL, Data Analysis",17
+487,"Java, JavaScript, Web Development",17
+488,"C++, SQL, Machine Learning",11
+489,"Python, Data Science, Statistics",12
+490,"SQL, Database Management, Data Warehousing",4
+491,"Python, SQL, Data Analysis",9
+492,"Java, JavaScript, Web Development",15
+493,"C++, SQL, Machine Learning",1
+494,"Python, Data Science, Statistics",1
+495,"SQL, Database Management, Data Warehousing",3
+496,"Python, SQL, Data Analysis",12
+497,"Java, JavaScript, Web Development",6
+498,"C++, SQL, Machine Learning",3
+499,"Python, Data Science, Statistics",8
+500,"SQL, Database Management, Data Warehousing",13
+501,"Python, SQL, Data Analysis",12
+502,"Java, JavaScript, Web Development",2
+503,"C++, SQL, Machine Learning",17
+504,"Python, Data Science, Statistics",19
+505,"SQL, Database Management, Data Warehousing",19
+506,"Python, SQL, Data Analysis",15
+507,"Java, JavaScript, Web Development",16
+508,"C++, SQL, Machine Learning",16
+509,"Python, Data Science, Statistics",6
+510,"SQL, Database Management, Data Warehousing",2
+511,"Python, SQL, Data Analysis",11
+512,"Java, JavaScript, Web Development",3
+513,"C++, SQL, Machine Learning",9
+514,"Python, Data Science, Statistics",16
+515,"SQL, Database Management, Data Warehousing",8
+516,"Python, SQL, Data Analysis",13
+517,"Java, JavaScript, Web Development",4
+518,"C++, SQL, Machine Learning",2
+519,"Python, Data Science, Statistics",17
+520,"SQL, Database Management, Data Warehousing",18
+521,"Python, SQL, Data Analysis",17
+522,"Java, JavaScript, Web Development",6
+523,"C++, SQL, Machine Learning",11
+524,"Python, Data Science, Statistics",18
+525,"SQL, Database Management, Data Warehousing",14
+526,"Python, SQL, Data Analysis",1
+527,"Java, JavaScript, Web Development",2
+528,"C++, SQL, Machine Learning",7
+529,"Python, Data Science, Statistics",10
+530,"SQL, Database Management, Data Warehousing",6
+531,"Python, SQL, Data Analysis",13
+532,"Java, JavaScript, Web Development",11
+533,"C++, SQL, Machine Learning",17
+534,"Python, Data Science, Statistics",18
+535,"SQL, Database Management, Data Warehousing",5
+536,"Python, SQL, Data Analysis",15
+537,"Java, JavaScript, Web Development",14
+538,"C++, SQL, Machine Learning",18
+539,"Python, Data Science, Statistics",7
+540,"SQL, Database Management, Data Warehousing",11
+541,"Python, SQL, Data Analysis",6
+542,"Java, JavaScript, Web Development",5
+543,"C++, SQL, Machine Learning",5
+544,"Python, Data Science, Statistics",19
+545,"SQL, Database Management, Data Warehousing",19
+546,"Python, SQL, Data Analysis",11
+547,"Java, JavaScript, Web Development",12
+548,"C++, SQL, Machine Learning",15
+549,"Python, Data Science, Statistics",17
+550,"SQL, Database Management, Data Warehousing",2
+551,"Python, SQL, Data Analysis",9
+552,"Java, JavaScript, Web Development",8
+553,"C++, SQL, Machine Learning",6
+554,"Python, Data Science, Statistics",16
+555,"SQL, Database Management, Data Warehousing",10
+556,"Python, SQL, Data Analysis",1
+557,"Java, JavaScript, Web Development",15
+558,"C++, SQL, Machine Learning",3
+559,"Python, Data Science, Statistics",5
+560,"SQL, Database Management, Data Warehousing",1
+561,"Python, SQL, Data Analysis",6
+562,"Java, JavaScript, Web Development",18
+563,"C++, SQL, Machine Learning",5
+564,"Python, Data Science, Statistics",1
+565,"SQL, Database Management, Data Warehousing",18
+566,"Python, SQL, Data Analysis",18
+567,"Java, JavaScript, Web Development",9
+568,"C++, SQL, Machine Learning",10
+569,"Python, Data Science, Statistics",5
+570,"SQL, Database Management, Data Warehousing",10
+571,"Python, SQL, Data Analysis",13
+572,"Java, JavaScript, Web Development",17
+573,"C++, SQL, Machine Learning",4
+574,"Python, Data Science, Statistics",1
+575,"SQL, Database Management, Data Warehousing",15
+576,"Python, SQL, Data Analysis",1
+577,"Java, JavaScript, Web Development",12
+578,"C++, SQL, Machine Learning",2
+579,"Python, Data Science, Statistics",19
+580,"SQL, Database Management, Data Warehousing",15
+581,"Python, SQL, Data Analysis",13
+582,"Java, JavaScript, Web Development",9
+583,"C++, SQL, Machine Learning",6
+584,"Python, Data Science, Statistics",3
+585,"SQL, Database Management, Data Warehousing",18
+586,"Python, SQL, Data Analysis",16
+587,"Java, JavaScript, Web Development",4
+588,"C++, SQL, Machine Learning",17
+589,"Python, Data Science, Statistics",19
+590,"SQL, Database Management, Data Warehousing",6
+591,"Python, SQL, Data Analysis",19
+592,"Java, JavaScript, Web Development",8
+593,"C++, SQL, Machine Learning",18
+594,"Python, Data Science, Statistics",5
+595,"SQL, Database Management, Data Warehousing",14
+596,"Python, SQL, Data Analysis",16
+597,"Java, JavaScript, Web Development",15
+598,"C++, SQL, Machine Learning",19
+599,"Python, Data Science, Statistics",1
+600,"SQL, Database Management, Data Warehousing",5
+601,"Python, SQL, Data Analysis",7
+602,"Java, JavaScript, Web Development",13
+603,"C++, SQL, Machine Learning",4
+604,"Python, Data Science, Statistics",19
+605,"SQL, Database Management, Data Warehousing",14
+606,"Python, SQL, Data Analysis",18
+607,"Java, JavaScript, Web Development",2
+608,"C++, SQL, Machine Learning",19
+609,"Python, Data Science, Statistics",13
+610,"SQL, Database Management, Data Warehousing",16
+611,"Python, SQL, Data Analysis",8
+612,"Java, JavaScript, Web Development",3
+613,"C++, SQL, Machine Learning",8
+614,"Python, Data Science, Statistics",14
+615,"SQL, Database Management, Data Warehousing",17
+616,"Python, SQL, Data Analysis",2
+617,"Java, JavaScript, Web Development",17
+618,"C++, SQL, Machine Learning",14
+619,"Python, Data Science, Statistics",6
+620,"SQL, Database Management, Data Warehousing",19
+621,"Python, SQL, Data Analysis",17
+622,"Java, JavaScript, Web Development",13
+623,"C++, SQL, Machine Learning",5
+624,"Python, Data Science, Statistics",17
+625,"SQL, Database Management, Data Warehousing",15
+626,"Python, SQL, Data Analysis",9
+627,"Java, JavaScript, Web Development",15
+628,"C++, SQL, Machine Learning",18
+629,"Python, Data Science, Statistics",11
+630,"SQL, Database Management, Data Warehousing",15
+631,"Python, SQL, Data Analysis",7
+632,"Java, JavaScript, Web Development",14
+633,"C++, SQL, Machine Learning",5
+634,"Python, Data Science, Statistics",16
+635,"SQL, Database Management, Data Warehousing",15
+636,"Python, SQL, Data Analysis",11
+637,"Java, JavaScript, Web Development",12
+638,"C++, SQL, Machine Learning",15
+639,"Python, Data Science, Statistics",12
+640,"SQL, Database Management, Data Warehousing",3
+641,"Python, SQL, Data Analysis",1
+642,"Java, JavaScript, Web Development",15
+643,"C++, SQL, Machine Learning",7
+644,"Python, Data Science, Statistics",19
+645,"SQL, Database Management, Data Warehousing",15
+646,"Python, SQL, Data Analysis",14
+647,"Java, JavaScript, Web Development",13
+648,"C++, SQL, Machine Learning",6
+649,"Python, Data Science, Statistics",9
+650,"SQL, Database Management, Data Warehousing",9
+651,"Python, SQL, Data Analysis",16
+652,"Java, JavaScript, Web Development",11
+653,"C++, SQL, Machine Learning",11
+654,"Python, Data Science, Statistics",18
+655,"SQL, Database Management, Data Warehousing",1
+656,"Python, SQL, Data Analysis",8
+657,"Java, JavaScript, Web Development",7
+658,"C++, SQL, Machine Learning",3
+659,"Python, Data Science, Statistics",2
+660,"SQL, Database Management, Data Warehousing",17
+661,"Python, SQL, Data Analysis",14
+662,"Java, JavaScript, Web Development",18
+663,"C++, SQL, Machine Learning",8
+664,"Python, Data Science, Statistics",2
+665,"SQL, Database Management, Data Warehousing",3
+666,"Python, SQL, Data Analysis",1
+667,"Java, JavaScript, Web Development",19
+668,"C++, SQL, Machine Learning",7
+669,"Python, Data Science, Statistics",7
+670,"SQL, Database Management, Data Warehousing",4
+671,"Python, SQL, Data Analysis",5
+672,"Java, JavaScript, Web Development",19
+673,"C++, SQL, Machine Learning",7
+674,"Python, Data Science, Statistics",15
+675,"SQL, Database Management, Data Warehousing",16
+676,"Python, SQL, Data Analysis",18
+677,"Java, JavaScript, Web Development",2
+678,"C++, SQL, Machine Learning",10
+679,"Python, Data Science, Statistics",18
+680,"SQL, Database Management, Data Warehousing",12
+681,"Python, SQL, Data Analysis",1
+682,"Java, JavaScript, Web Development",4
+683,"C++, SQL, Machine Learning",5
+684,"Python, Data Science, Statistics",16
+685,"SQL, Database Management, Data Warehousing",6
+686,"Python, SQL, Data Analysis",5
+687,"Java, JavaScript, Web Development",10
+688,"C++, SQL, Machine Learning",17
+689,"Python, Data Science, Statistics",17
+690,"SQL, Database Management, Data Warehousing",6
+691,"Python, SQL, Data Analysis",1
+692,"Java, JavaScript, Web Development",4
+693,"C++, SQL, Machine Learning",9
+694,"Python, Data Science, Statistics",10
+695,"SQL, Database Management, Data Warehousing",11
+696,"Python, SQL, Data Analysis",7
+697,"Java, JavaScript, Web Development",13
+698,"C++, SQL, Machine Learning",12
+699,"Python, Data Science, Statistics",3
+700,"SQL, Database Management, Data Warehousing",18
+701,"Python, SQL, Data Analysis",8
+702,"Java, JavaScript, Web Development",8
+703,"C++, SQL, Machine Learning",7
+704,"Python, Data Science, Statistics",6
+705,"SQL, Database Management, Data Warehousing",10
+706,"Python, SQL, Data Analysis",13
+707,"Java, JavaScript, Web Development",9
+708,"C++, SQL, Machine Learning",2
+709,"Python, Data Science, Statistics",15
+710,"SQL, Database Management, Data Warehousing",14
+711,"Python, SQL, Data Analysis",16
+712,"Java, JavaScript, Web Development",5
+713,"C++, SQL, Machine Learning",3
+714,"Python, Data Science, Statistics",8
+715,"SQL, Database Management, Data Warehousing",14
+716,"Python, SQL, Data Analysis",9
+717,"Java, JavaScript, Web Development",6
+718,"C++, SQL, Machine Learning",8
+719,"Python, Data Science, Statistics",16
+720,"SQL, Database Management, Data Warehousing",16
+721,"Python, SQL, Data Analysis",10
+722,"Java, JavaScript, Web Development",10
+723,"C++, SQL, Machine Learning",12
+724,"Python, Data Science, Statistics",4
+725,"SQL, Database Management, Data Warehousing",8
+726,"Python, SQL, Data Analysis",19
+727,"Java, JavaScript, Web Development",9
+728,"C++, SQL, Machine Learning",2
+729,"Python, Data Science, Statistics",4
+730,"SQL, Database Management, Data Warehousing",19
+731,"Python, SQL, Data Analysis",18
+732,"Java, JavaScript, Web Development",15
+733,"C++, SQL, Machine Learning",11
+734,"Python, Data Science, Statistics",11
+735,"SQL, Database Management, Data Warehousing",12
+736,"Python, SQL, Data Analysis",14
+737,"Java, JavaScript, Web Development",15
+738,"C++, SQL, Machine Learning",6
+739,"Python, Data Science, Statistics",11
+740,"SQL, Database Management, Data Warehousing",8
+741,"Python, SQL, Data Analysis",18
+742,"Java, JavaScript, Web Development",6
+743,"C++, SQL, Machine Learning",7
+744,"Python, Data Science, Statistics",12
+745,"SQL, Database Management, Data Warehousing",12
+746,"Python, SQL, Data Analysis",18
+747,"Java, JavaScript, Web Development",19
+748,"C++, SQL, Machine Learning",6
+749,"Python, Data Science, Statistics",18
+750,"SQL, Database Management, Data Warehousing",9
+751,"Python, SQL, Data Analysis",18
+752,"Java, JavaScript, Web Development",11
+753,"C++, SQL, Machine Learning",8
+754,"Python, Data Science, Statistics",12
+755,"SQL, Database Management, Data Warehousing",15
+756,"Python, SQL, Data Analysis",1
+757,"Java, JavaScript, Web Development",2
+758,"C++, SQL, Machine Learning",2
+759,"Python, Data Science, Statistics",5
+760,"SQL, Database Management, Data Warehousing",13
+761,"Python, SQL, Data Analysis",9
+762,"Java, JavaScript, Web Development",19
+763,"C++, SQL, Machine Learning",13
+764,"Python, Data Science, Statistics",4
+765,"SQL, Database Management, Data Warehousing",11
+766,"Python, SQL, Data Analysis",8
+767,"Java, JavaScript, Web Development",15
+768,"C++, SQL, Machine Learning",9
+769,"Python, Data Science, Statistics",15
+770,"SQL, Database Management, Data Warehousing",4
+771,"Python, SQL, Data Analysis",4
+772,"Java, JavaScript, Web Development",18
+773,"C++, SQL, Machine Learning",13
+774,"Python, Data Science, Statistics",14
+775,"SQL, Database Management, Data Warehousing",8
+776,"Python, SQL, Data Analysis",16
+777,"Java, JavaScript, Web Development",15
+778,"C++, SQL, Machine Learning",8
+779,"Python, Data Science, Statistics",11
+780,"SQL, Database Management, Data Warehousing",14
+781,"Python, SQL, Data Analysis",19
+782,"Java, JavaScript, Web Development",2
+783,"C++, SQL, Machine Learning",12
+784,"Python, Data Science, Statistics",19
+785,"SQL, Database Management, Data Warehousing",15
+786,"Python, SQL, Data Analysis",6
+787,"Java, JavaScript, Web Development",9
+788,"C++, SQL, Machine Learning",19
+789,"Python, Data Science, Statistics",3
+790,"SQL, Database Management, Data Warehousing",12
+791,"Python, SQL, Data Analysis",13
+792,"Java, JavaScript, Web Development",12
+793,"C++, SQL, Machine Learning",9
+794,"Python, Data Science, Statistics",5
+795,"SQL, Database Management, Data Warehousing",18
+796,"Python, SQL, Data Analysis",13
+797,"Java, JavaScript, Web Development",18
+798,"C++, SQL, Machine Learning",11
+799,"Python, Data Science, Statistics",17
+800,"SQL, Database Management, Data Warehousing",11
+801,"Python, SQL, Data Analysis",12
+802,"Java, JavaScript, Web Development",3
+803,"C++, SQL, Machine Learning",11
+804,"Python, Data Science, Statistics",13
+805,"SQL, Database Management, Data Warehousing",18
+806,"Python, SQL, Data Analysis",8
+807,"Java, JavaScript, Web Development",17
+808,"C++, SQL, Machine Learning",11
+809,"Python, Data Science, Statistics",3
+810,"SQL, Database Management, Data Warehousing",16
+811,"Python, SQL, Data Analysis",12
+812,"Java, JavaScript, Web Development",15
+813,"C++, SQL, Machine Learning",10
+814,"Python, Data Science, Statistics",4
+815,"SQL, Database Management, Data Warehousing",17
+816,"Python, SQL, Data Analysis",1
+817,"Java, JavaScript, Web Development",14
+818,"C++, SQL, Machine Learning",7
+819,"Python, Data Science, Statistics",5
+820,"SQL, Database Management, Data Warehousing",4
+821,"Python, SQL, Data Analysis",18
+822,"Java, JavaScript, Web Development",17
+823,"C++, SQL, Machine Learning",8
+824,"Python, Data Science, Statistics",12
+825,"SQL, Database Management, Data Warehousing",3
+826,"Python, SQL, Data Analysis",9
+827,"Java, JavaScript, Web Development",9
+828,"C++, SQL, Machine Learning",7
+829,"Python, Data Science, Statistics",2
+830,"SQL, Database Management, Data Warehousing",5
+831,"Python, SQL, Data Analysis",12
+832,"Java, JavaScript, Web Development",6
+833,"C++, SQL, Machine Learning",8
+834,"Python, Data Science, Statistics",11
+835,"SQL, Database Management, Data Warehousing",10
+836,"Python, SQL, Data Analysis",19
+837,"Java, JavaScript, Web Development",6
+838,"C++, SQL, Machine Learning",14
+839,"Python, Data Science, Statistics",16
+840,"SQL, Database Management, Data Warehousing",13
+841,"Python, SQL, Data Analysis",12
+842,"Java, JavaScript, Web Development",1
+843,"C++, SQL, Machine Learning",15
+844,"Python, Data Science, Statistics",8
+845,"SQL, Database Management, Data Warehousing",1
+846,"Python, SQL, Data Analysis",2
+847,"Java, JavaScript, Web Development",16
+848,"C++, SQL, Machine Learning",14
+849,"Python, Data Science, Statistics",12
+850,"SQL, Database Management, Data Warehousing",16
+851,"Python, SQL, Data Analysis",5
+852,"Java, JavaScript, Web Development",11
+853,"C++, SQL, Machine Learning",8
+854,"Python, Data Science, Statistics",11
+855,"SQL, Database Management, Data Warehousing",12
+856,"Python, SQL, Data Analysis",1
+857,"Java, JavaScript, Web Development",18
+858,"C++, SQL, Machine Learning",13
+859,"Python, Data Science, Statistics",12
+860,"SQL, Database Management, Data Warehousing",16
+861,"Python, SQL, Data Analysis",3
+862,"Java, JavaScript, Web Development",3
+863,"C++, SQL, Machine Learning",11
+864,"Python, Data Science, Statistics",5
+865,"SQL, Database Management, Data Warehousing",5
+866,"Python, SQL, Data Analysis",13
+867,"Java, JavaScript, Web Development",18
+868,"C++, SQL, Machine Learning",17
+869,"Python, Data Science, Statistics",16
+870,"SQL, Database Management, Data Warehousing",7
+871,"Python, SQL, Data Analysis",7
+872,"Java, JavaScript, Web Development",17
+873,"C++, SQL, Machine Learning",10
+874,"Python, Data Science, Statistics",14
+875,"SQL, Database Management, Data Warehousing",10
+876,"Python, SQL, Data Analysis",3
+877,"Java, JavaScript, Web Development",10
+878,"C++, SQL, Machine Learning",15
+879,"Python, Data Science, Statistics",5
+880,"SQL, Database Management, Data Warehousing",1
+881,"Python, SQL, Data Analysis",11
+882,"Java, JavaScript, Web Development",14
+883,"C++, SQL, Machine Learning",12
+884,"Python, Data Science, Statistics",3
+885,"SQL, Database Management, Data Warehousing",6
+886,"Python, SQL, Data Analysis",8
+887,"Java, JavaScript, Web Development",18
+888,"C++, SQL, Machine Learning",4
+889,"Python, Data Science, Statistics",16
+890,"SQL, Database Management, Data Warehousing",3
+891,"Python, SQL, Data Analysis",17
+892,"Java, JavaScript, Web Development",19
+893,"C++, SQL, Machine Learning",19
+894,"Python, Data Science, Statistics",11
+895,"SQL, Database Management, Data Warehousing",19
+896,"Python, SQL, Data Analysis",4
+897,"Java, JavaScript, Web Development",18
+898,"C++, SQL, Machine Learning",8
+899,"Python, Data Science, Statistics",11
+900,"SQL, Database Management, Data Warehousing",15
+901,"Python, SQL, Data Analysis",6
+902,"Java, JavaScript, Web Development",12
+903,"C++, SQL, Machine Learning",11
+904,"Python, Data Science, Statistics",11
+905,"SQL, Database Management, Data Warehousing",10
+906,"Python, SQL, Data Analysis",4
+907,"Java, JavaScript, Web Development",12
+908,"C++, SQL, Machine Learning",1
+909,"Python, Data Science, Statistics",7
+910,"SQL, Database Management, Data Warehousing",2
+911,"Python, SQL, Data Analysis",13
+912,"Java, JavaScript, Web Development",10
+913,"C++, SQL, Machine Learning",12
+914,"Python, Data Science, Statistics",4
+915,"SQL, Database Management, Data Warehousing",10
+916,"Python, SQL, Data Analysis",9
+917,"Java, JavaScript, Web Development",9
+918,"C++, SQL, Machine Learning",10
+919,"Python, Data Science, Statistics",14
+920,"SQL, Database Management, Data Warehousing",16
+921,"Python, SQL, Data Analysis",16
+922,"Java, JavaScript, Web Development",5
+923,"C++, SQL, Machine Learning",2
+924,"Python, Data Science, Statistics",6
+925,"SQL, Database Management, Data Warehousing",11
+926,"Python, SQL, Data Analysis",1
+927,"Java, JavaScript, Web Development",7
+928,"C++, SQL, Machine Learning",4
+929,"Python, Data Science, Statistics",17
+930,"SQL, Database Management, Data Warehousing",4
+931,"Python, SQL, Data Analysis",7
+932,"Java, JavaScript, Web Development",10
+933,"C++, SQL, Machine Learning",6
+934,"Python, Data Science, Statistics",12
+935,"SQL, Database Management, Data Warehousing",18
+936,"Python, SQL, Data Analysis",12
+937,"Java, JavaScript, Web Development",4
+938,"C++, SQL, Machine Learning",15
+939,"Python, Data Science, Statistics",15
+940,"SQL, Database Management, Data Warehousing",17
+941,"Python, SQL, Data Analysis",4
+942,"Java, JavaScript, Web Development",7
+943,"C++, SQL, Machine Learning",12
+944,"Python, Data Science, Statistics",7
+945,"SQL, Database Management, Data Warehousing",3
+946,"Python, SQL, Data Analysis",1
+947,"Java, JavaScript, Web Development",2
+948,"C++, SQL, Machine Learning",5
+949,"Python, Data Science, Statistics",14
+950,"SQL, Database Management, Data Warehousing",9
+951,"Python, SQL, Data Analysis",8
+952,"Java, JavaScript, Web Development",18
+953,"C++, SQL, Machine Learning",9
+954,"Python, Data Science, Statistics",6
+955,"SQL, Database Management, Data Warehousing",2
+956,"Python, SQL, Data Analysis",19
+957,"Java, JavaScript, Web Development",11
+958,"C++, SQL, Machine Learning",12
+959,"Python, Data Science, Statistics",8
+960,"SQL, Database Management, Data Warehousing",11
+961,"Python, SQL, Data Analysis",8
+962,"Java, JavaScript, Web Development",13
+963,"C++, SQL, Machine Learning",14
+964,"Python, Data Science, Statistics",11
+965,"SQL, Database Management, Data Warehousing",4
+966,"Python, SQL, Data Analysis",18
+967,"Java, JavaScript, Web Development",6
+968,"C++, SQL, Machine Learning",2
+969,"Python, Data Science, Statistics",13
+970,"SQL, Database Management, Data Warehousing",8
+971,"Python, SQL, Data Analysis",6
+972,"Java, JavaScript, Web Development",3
+973,"C++, SQL, Machine Learning",17
+974,"Python, Data Science, Statistics",14
+975,"SQL, Database Management, Data Warehousing",9
+976,"Python, SQL, Data Analysis",8
+977,"Java, JavaScript, Web Development",2
+978,"C++, SQL, Machine Learning",2
+979,"Python, Data Science, Statistics",2
+980,"SQL, Database Management, Data Warehousing",10
+981,"Python, SQL, Data Analysis",5
+982,"Java, JavaScript, Web Development",7
+983,"C++, SQL, Machine Learning",2
+984,"Python, Data Science, Statistics",19
+985,"SQL, Database Management, Data Warehousing",11
+986,"Python, SQL, Data Analysis",16
+987,"Java, JavaScript, Web Development",4
+988,"C++, SQL, Machine Learning",19
+989,"Python, Data Science, Statistics",7
+990,"SQL, Database Management, Data Warehousing",1
+991,"Python, SQL, Data Analysis",15
+992,"Java, JavaScript, Web Development",4
+993,"C++, SQL, Machine Learning",6
+994,"Python, Data Science, Statistics",8
+995,"SQL, Database Management, Data Warehousing",17
+996,"Python, SQL, Data Analysis",12
+997,"Java, JavaScript, Web Development",12
+998,"C++, SQL, Machine Learning",13
+999,"Python, Data Science, Statistics",3
+1000,"SQL, Database Management, Data Warehousing",6
